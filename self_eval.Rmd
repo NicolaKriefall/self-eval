@@ -1,0 +1,114 @@
+---
+title: "AN597: End-of-Semester Self Evaluation"
+author: "Nicola Kriefall"
+date: "12/17/2019"
+output: 
+  rmarkdown::html_document:
+    theme: cosmo
+---
+
+<center>
+
+<center><p><img src="https://media.giphy.com/media/5UEAAn02o9I3BULWJV/giphy.gif" style="border:5px solid black"></p>
+</center><br>  
+
+<center>
+
+I was definitely challenged in this class, hence the gif of encouragement that I am a grown woman & I can figure it out. I learned a ton of new statistical analyses & now better understand the reasons behind using the ones that I was previously familiar with. I think one of best things I gained was proper R markdown experience, this should be useful in helping others replicate my work in the future. 
+
+</center>
+***
+
+##Instructions
+
+***
+
+Please download this Markdown file (`selfevaluation.Rmd`) from my GitHub site (in the `fuzzyatelin.github.io/bioanth-stats/` folder) and answer the appropriate questions in the spaces provided. Once you've knitted the final file, please *email* the **html** version of that file to me with the name `[LastF]_F19_SelfEvaluation.html` (with `LastF` meaning your last name followed by your first initial, i.e., mine would be called `SchmittC_F19_SelfEvaluation.html`). I must receive this file by **Midnight of December 17, 2019**.
+
+***
+
+###Overall Impression
+
+***
+
+In place of my name as author on this Markdown file, please insert your own, along with the date on which you completed this self-assessment. In place of the RuPaul GIF, above, please choose a GIF of a drag queen that best exemplifies your overall feelings about what you learned/accomplished in this course. Additionally, replace the `The following self evaluation...` text below your GIF with a three sentence summary of your experience in the class and what you take away from it to accompany that GIF. You may also choose a catchy title.
+
+***
+
+###What were you asked to do?
+
+***
+
+Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.<br><br><br><br><br><br>
+
+I was asked to:
+1. Complete the weekly modules prior to coming to class.
+2. Complete 5 homework assignments
+  a. first one here
+  b. second one here
+  c. third one here
+  d. fourth one here
+  e. last one here
+3. Complete one group project [linked here]()
+4. Complete one replication final project [linked here](GroupModuleMD.html)
+
+***
+
+###What did you accomplish?
+
+***
+
+Please let me know how many of the above tasks you accomplished. If any of them were accomplished later than stipulated, please note that. If you contacted me about them being late (and we discussed it and I said it was ok), please note that, too. You may provide a bulleted/numbered list matching the one above.<br><br><br><br><br><br>
+
+***
+
+###How well did you accomplish them?
+
+***
+
+Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?<br><br><br><br><br><br>
+
+***
+
+###How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+This may be in relation to previous knowledge, or in relation to future/planned work.<br><br><br><br><br><br><br><br>
+
+***
+
+###What did you learn from all this?
+
+***
+
+Please name at least three things you feel you learned in this course.<br><br><br><br><br><br><br><br>
+
+***
+
+###How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+###What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+###Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+<br><center>[insert letter grade here]</center><br>
+
+***
+
+
+
